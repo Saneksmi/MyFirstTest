@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1e177d3-c982-41d8-8f82-4fd47d0a2eae" name="Default Changelist" comment="" />
+    <list default="true" id="c1e177d3-c982-41d8-8f82-4fd47d0a2eae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,6 +87,13 @@
       </expand>
       <select />
     </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="50" />
@@ -179,6 +188,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../FintechSort" />
   </component>
   <component name="RunDashboard">
@@ -268,6 +278,9 @@
       <configuration name="MySortTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="MySortTest - 2019.03.30 at 15h 23m 18s.xml">
+      <configuration name="MySortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MySortTest - 2019.03.31 at 13h 35m 53s.xml">
       <configuration name="MySortTest" configurationId="JUnit" />
     </history-entry>
   </component>
